@@ -47,7 +47,7 @@ header > nav {
   padding: 50px;
 }
 #tribute-info > ul {
-  width: 600px;
+  width: 50%;
   margin-left: auto;
   margin-right: auto;
   line-height: 25px;
@@ -58,7 +58,7 @@ li {
 }
 
 #quote {
-width: 600px;
+width: 50%;
 margin-left: auto;
 margin-right: auto;
 text-align: left;
